@@ -1,0 +1,6 @@
+# Debugging and Error Handling for JavaScript
+Debugging your JavaScript with the proper tools can help you identify and log errors quickly.
+
+Over the past few decades, JavaScript has evolved from a simple browser-based scripting to an advanced programing language, becoming an integral part of modern web applications. The advancement of web browsers, standardization, browser and third-party debugging and error handling solutions, enables both JavaScript development and error investigations in production more productive.
+
+Debugging is a process for testing, finding the errors and reducing them from happening in future. Debugging JavaScript either requires having support for JavaScript debugger keyword, breakpoint support with web browser tools, or third-party tools. These tools range from browser plugins like Augury which is an Angular development and debugging extension for Chrome, third-party tools & more. It is also possible to use 'debugger' keyword support (depending on the browser type and version) and to freeze the code at a given point and investigate the issue. Let us look at few popular debugging and error handling tools.
